@@ -153,5 +153,7 @@ cython_debug/
 #.idea/
 
 a.mp4
+output.mp4
 a.png
 b.png
+video.mp4
